@@ -1,0 +1,4 @@
+Why do programmers always mix up Halloween and Christmas?
+Because Oct 31 == Dec 25 😄
+
+(In octal, 31 is equal to 25 in decimal!)
